@@ -1,46 +1,49 @@
 # 🎬 YouTube UI Clone
 
-A responsive YouTube homepage clone built using HTML and CSS.
+A frontend clone of the YouTube homepage built using **HTML5** and **CSS3**. This project was created to practice modern web layout techniques, component-based styling and building a real-world user interface from scratch.
 
-This project was created to practice modern CSS layouts and improve my frontend development skills as part of my Build in Public journey.
+## 📸 Preview
+
+> Add a screenshot of the project here.
+
+```md
+![YouTube UI Clone](preview.png)
+```
 
 ---
 
 ## 🚀 Live Demo
 
+> Add your GitHub Pages or Netlify deployment link here.
+
+```
 Coming Soon
-
----
-
-## 📸 Preview
-
-(Add a screenshot here)
+```
 
 ---
 
 ## ✨ Features
 
-- Responsive YouTube homepage layout
-- Header with search bar
-- Sidebar navigation
-- Video grid layout
-- Clean and organized CSS structure
+* YouTube inspired homepage layout
+* Header with search bar and navigation icons
+* Sidebar navigation
+* Video card grid layout
+* Separate CSS files for better organization
+* Clean folder structure with organized assets
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Built With
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
+* HTML5
+* CSS3
 
 ---
 
-## 📁 Folder Structure
+## 📂 Project Structure
 
 ```
-youtube-ui-clone
+youtube-ui-clone/
 │
 ├── index.html
 ├── styles/
@@ -48,41 +51,42 @@ youtube-ui-clone
 │   ├── header.css
 │   ├── sidebar.css
 │   └── video.css
+│
 ├── icons/
-└── channel-pictures/
+├── channel-pictures/
+└── README.md
 ```
 
 ---
 
-## 📚 What I Learned
+## 🎯 What I Learned
 
-While building this project I practiced:
+While building this project, I practiced:
 
-- Structuring HTML
-- CSS Grid
-- Flexbox
-- Positioning
-- Responsive layouts
-- Organizing CSS into multiple files
+* Structuring a web page using semantic HTML
+* Building layouts with Flexbox and CSS Grid
+* Organizing CSS into multiple reusable files
+* Working with images and icons
+* Improving overall frontend code organization
 
 ---
 
-## 🎯 Future Improvements
+## 📈 Future Improvements
 
-- Mobile responsiveness
-- Dark mode
-- JavaScript search functionality
-- Sidebar toggle
-- Better accessibility
+* Add dark mode
+* Implement search functionality using JavaScript
+* Add interactive sidebar
+* Improve accessibility with better `alt` text and ARIA labels
 
 ---
 
 ## 👨‍💻 Author
 
-Arjun S
+**Arjun S**
 
-GitHub:
-https://github.com/arjunsudheer-tech
+* GitHub: https://github.com/arjunsudheer-tech
+* LinkedIn: https://www.linkedin.com/in/arjunsudheer-tech/
 
-LinkedIn:
-(Add your LinkedIn profile)
+---
+
+⭐ If you like this project, consider giving it a star.
