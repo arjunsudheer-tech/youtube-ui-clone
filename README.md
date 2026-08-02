@@ -6,19 +6,14 @@ A frontend clone of the YouTube homepage built using **HTML5** and **CSS3**. Thi
 
 > Add a screenshot of the project here.
 
-```md
 ![YouTube UI Clone](preview.png)
-```
 
 ---
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages or Netlify deployment link here.
+https://arjunsudheer-tech.github.io/youtube-ui-clone/
 
-```
-Coming Soon
-```
 
 ---
 
