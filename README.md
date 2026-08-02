@@ -4,8 +4,6 @@ A frontend clone of the YouTube homepage built using **HTML5** and **CSS3**. Thi
 
 ## 📸 Preview
 
-> Add a screenshot of the project here.
-
 ![YouTube UI Clone](preview.png)
 
 ---
